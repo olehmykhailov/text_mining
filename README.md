@@ -92,14 +92,6 @@ __pycache__/
 *.csv
 ```
 
----
-
-## 📄 License
-
-MIT License — feel free to use and modify.
-
----
-
 ## 🙌 Credits
 
 Created using `scikit-learn`, `matplotlib`, `seaborn`, `pandas`, `TextBlob`, and more.
