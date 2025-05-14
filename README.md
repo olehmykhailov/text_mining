@@ -103,10 +103,3 @@ MIT License — feel free to use and modify.
 ## 🙌 Credits
 
 Created using `scikit-learn`, `matplotlib`, `seaborn`, `pandas`, `TextBlob`, and more.
-
-```
-
----
-
-Let me know if you'd like to tailor this README for a specific use case (e.g., apps vs. restaurants, command-line options, etc.).
-```
